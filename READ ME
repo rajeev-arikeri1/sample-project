@@ -1,0 +1,22 @@
+Steps to run the application jar file
+-----------------------------------------
+1. Extract the Zip file project to the c drive and run the command in command prompt as shown below
+----------------------------------------------------------------------------------------------------
+c:\project> java -jar -debug registration-0.0.1-SNAPSHOT.jar
+
+2. To test the application using postman is as below
+----------------------------------------------------
+Enter the url in the postman to test the registration application
+
+http://localhost:8080/registration/user
+select Request method as POST and JSON as media-type
+
+Sample JSON Request body should be as below
+--------------------------------------------
+{
+    "userName": "Rajeev123",
+    "password": "dummy"
+}
+
+
+-------------------------Thank You----------------------------------------------------------------------
