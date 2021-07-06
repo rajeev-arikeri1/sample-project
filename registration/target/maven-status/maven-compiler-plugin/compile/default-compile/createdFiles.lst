@@ -1,0 +1,6 @@
+com\user\registration\service\RegistrationService.class
+com\user\registration\validation\ValidateUser.class
+com\user\registration\model\User.class
+com\user\registration\RegistrationApplication.class
+com\user\registration\controller\UserRegistrationController.class
+com\user\registration\service\RegistrationServiceImpl.class

@@ -1,0 +1,3 @@
+com\user\registration\service\RegistrationServiceImplTest.class
+com\user\registration\RegistrationApplicationTests.class
+com\user\registration\validation\ValidationUserTest.class
